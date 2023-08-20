@@ -1,4 +1,4 @@
-# 👋 Seja bem vind@, me chamo [Matheus Reina](https://github.com/matheusreina)
+# 👋 Seja bem vind@, me chamo [Matheus Reina](https://www.linkedin.com/in/matheusreina/)
 
 ---
 
