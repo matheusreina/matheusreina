@@ -8,9 +8,10 @@
 
 ## Quem eu sou
 
-Olá, sou estudante de Analise e Desenvolvimento de Sistemas pela PUCPR mas, estudo também de forma autodidata. Tenho currículo como Assistente de Planejamento e anteriormente estava cursando Engenharia Mecânica em uma Federal, mas apesar disso, esta transição profissional está sendo cheia de surpresas e expectativas para adquirir experiências na área. Estou em busca de vagas de estágios ou vagas como júnior para ser treinado da melhor forma e construir minha carreira profissional.
-
-Através de estudos autodidatas, dentro do curso de Analise de Sistemas e posteriormente através da plataforma DIO.me, tive a vivência com diversas linguagens e tecnologias como o HTML 5, CSS 3, TailwindCSS, ES6, Java, Python, NodeJS, ReactJS, AngularJS, REST APIs, Bancos de Dados Relacionais (MySQL) e Não Relacionais (MongoDB), IDE's como o Microsoft Visual Studio Code, Sistema de Versionamento de Código (Git), entre algumas outras.
+Desenvolvedor Web dedicado e orientado a resultados, com experiência em Java (Spring Boot) e TypeScrript (Angular). Apaixonado por criar
+soluções eficientes e inovadoras, com forte atenção aos detalhes e comprometimento com a entrega de projetos de
+alta qualidade. Hábil em trabalhar em ambientes colaborativos e dinâmicos, sempre buscando aprimorar habilidades
+técnicas e conhecimentos em tecnologias emergentes.
 
 ---
 
@@ -42,12 +43,10 @@ Através de estudos autodidatas, dentro do curso de Analise de Sistemas e poster
 ## Social Media
 
 <h1>
-    <a href="https://web.dio.me/users/matheushfreina">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <a href="https://www.linkedin.com/in/matheusreina/">
      <img align="center" width="40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"></a>
-    <a href="https://github.com/matheusreina">
-     <img align="center" width="40px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png"></a>
+    <a href="https://www.instagram.com/matheusreina/">
+     <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
 </h1>
 
 ---
