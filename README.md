@@ -48,14 +48,3 @@ técnicas e conhecimentos em tecnologias emergentes.
     <a href="https://www.instagram.com/matheusreina/">
      <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
 </h1>
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusreina&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusreina&layout=compact&bg_color=013&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusreina&repo=loopstudio&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/matheusreina/loopstudio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusreina&repo=age-calculator&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/matheusreina/age-calculator)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusreina&repo=angular-blog&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/matheusreina/angular-blog)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusreina&repo=emprestados&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/matheusreina/emprestados)
