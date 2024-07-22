@@ -2,10 +2,6 @@
 
 ---
 
-### 📌 One small step for man, one giant leap for mankind
-
----
-
 ## Quem eu sou
 
 Desenvolvedor Web dedicado e orientado a resultados, com experiência em Java (Spring Boot) e TypeScrript (Angular). Apaixonado por criar
